@@ -1,0 +1,8 @@
+indent_style = "Block"
+edition = "2021"
+tab_spaces = 5
+reorder_imports = true
+blank_lines_lower_bound = 1
+brace_style = "PreferSameline"
+control_brace_style = "ClosingNextLine"
+fn_args_layout = "Compressed"
